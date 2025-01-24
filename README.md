@@ -1,4 +1,4 @@
-#### Hello, I am @davidolejniczak
+#### Hello, I am David Olejniczak
 - Software Enginnering student at McMaster University
 - Currently working for the Goverment of Ontario
 - Ex-pro road cyclist
